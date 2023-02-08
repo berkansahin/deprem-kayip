@@ -1,0 +1,10 @@
+.invalid-feedback {
+    display: block !important;
+    color: red !important;
+}
+body {
+    overflow-x: hidden;
+}
+.custom-mb-0  {
+    margin-bottom: 0 !important;
+}
